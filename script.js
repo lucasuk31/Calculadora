@@ -3,7 +3,7 @@ function insert(num) {
     document.querySelector('#resultado').innerHTML = numero + num;
 }
 
-function clean() {
+function cleanAll() {
     document.querySelector('#resultado').innerHTML = '';
 }
 
